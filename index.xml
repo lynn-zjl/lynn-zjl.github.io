@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Lynn-lyl</title>
+        <title>Lynn-zjl</title>
         <link>https://example.com/</link>
-        <description>Recent content on Lynn-lyl</description>
+        <description>Recent content on Lynn-zjl</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
@@ -550,7 +550,7 @@ $$</description>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/about/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;p&gt;市场没有一直稳赚，她也没说一直会在。&lt;/p&gt;
 </description>
         </item>
         <item>
